@@ -1,15 +1,8 @@
-## Hi there 👋
-
-👋 Hi, I’m Alex
-
-🎓 MSc. Data Scientist based in Berlin
-
-👀 And curious about Data Science and Engineering.
-
-💡 Specially interested in e-commerce and sustainability domains.
-
-📫 You can reach me via LinkedIn https://www.linkedin.com/in/alexander-flick/
-
+- 👋 Hi, I’m Alex
+- 🎓 MSc. Data Scientist based in Berlin
+- 👀 And curious about Data Science and Engineering.
+- 💡 Specially interested in e-commerce and sustainability domains.
+- 📫 You can reach me via LinkedIn https://www.linkedin.com/in/alexander-flick/
 <!--
 **BigDatalex/BigDatalex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
