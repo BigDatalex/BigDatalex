@@ -1,9 +1,13 @@
 ## Hi there 👋
 
 👋 Hi, I’m Alex
+
 🎓 MSc. Data Scientist based in Berlin
+
 👀 And curious about Data Science and Engineering.
+
 💡 Specially interested in e-commerce and sustainability domains.
+
 📫 You can reach me via LinkedIn https://www.linkedin.com/in/alexander-flick/
 
 <!--
